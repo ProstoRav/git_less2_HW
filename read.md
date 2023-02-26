@@ -9,3 +9,5 @@
 <b>Жирный текст</b>
 
 [mail](https://mail.ru)
+
+![Tanos3](https://cdn.azbooka.ru/cv/w1100/94768bb4-0290-42e8-a3a7-c81482cb595d.jpg "Tanos new2")
